@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\rental\documents\cs 142\labs\lab 4\prep labs\prep labs\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\rental\documents\cs 142\labs\lab 4\prep labs\prep labs\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\rental\documents\cs 142\labs\lab 4\prep labs\prep labs\source.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\rental\documents\cs 142\labs\lab 4\prep labs\prep labs\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  Prep labs.vcxproj -> C:\Users\Rental\Documents\CS 142\LABS\lab 4\Prep labs\Debug\Prep labs.exe
